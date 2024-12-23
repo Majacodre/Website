@@ -1,0 +1,479 @@
+,Technology,Count,State
+0,Body-worn Cameras,535,New Jersey
+1,Ring/Neighbors Partnership,186,New Jersey
+2,Drones,18,New Jersey
+3,Camera Registry,16,New Jersey
+4,Gunshot Detection,12,New Jersey
+5,Predictive Policing,7,New Jersey
+6,Face Recognition,3,New Jersey
+7,Real-Time Crime Center,3,New Jersey
+8,Automated License Plate Readers,2,New Jersey
+9,Video Analytics,1,New Jersey
+10,Fusion Center,1,New Jersey
+11,Face Recognition,424,Michigan
+12,Ring/Neighbors Partnership,93,Michigan
+13,Body-worn Cameras,85,Michigan
+14,Drones,24,Michigan
+15,Automated License Plate Readers,13,Michigan
+16,Camera Registry,4,Michigan
+17,Video Analytics,4,Michigan
+18,Real-Time Crime Center,2,Michigan
+19,Gunshot Detection,2,Michigan
+20,Fusion Center,2,Michigan
+21,Cell-site Simulator,1,Michigan
+22,Predictive Policing,1,Michigan
+23,Body-worn Cameras,288,Wisconsin
+24,Ring/Neighbors Partnership,73,Wisconsin
+25,Drones,51,Wisconsin
+26,Automated License Plate Readers,9,Wisconsin
+27,Camera Registry,5,Wisconsin
+28,Fusion Center,2,Wisconsin
+29,Face Recognition,2,Wisconsin
+30,Cell-site Simulator,2,Wisconsin
+31,Gunshot Detection,1,Wisconsin
+32,Predictive Policing,1,Wisconsin
+33,Body-worn Cameras,275,South Carolina
+34,Ring/Neighbors Partnership,39,South Carolina
+35,Automated License Plate Readers,35,South Carolina
+36,Drones,16,South Carolina
+37,Camera Registry,5,South Carolina
+38,Face Recognition,2,South Carolina
+39,Gunshot Detection,1,South Carolina
+40,Fusion Center,1,South Carolina
+41,Body-worn Cameras,270,California
+42,Automated License Plate Readers,264,California
+43,Ring/Neighbors Partnership,162,California
+44,Drones,115,California
+45,Camera Registry,78,California
+46,Face Recognition,65,California
+47,Predictive Policing,21,California
+48,Gunshot Detection,19,California
+49,Cell-site Simulator,14,California
+50,Video Analytics,11,California
+51,Real-Time Crime Center,7,California
+52,Fusion Center,6,California
+53,Face Recognition,259,Florida
+54,Body-worn Cameras,197,Florida
+55,Ring/Neighbors Partnership,155,Florida
+56,Drones,112,Florida
+57,Automated License Plate Readers,97,Florida
+58,Real-Time Crime Center,19,Florida
+59,Camera Registry,18,Florida
+60,Gunshot Detection,14,Florida
+61,Predictive Policing,11,Florida
+62,Video Analytics,7,Florida
+63,Cell-site Simulator,5,Florida
+64,Fusion Center,3,Florida
+65,Ring/Neighbors Partnership,217,Illinois
+66,Body-worn Cameras,128,Illinois
+67,Drones,49,Illinois
+68,Automated License Plate Readers,36,Illinois
+69,Camera Registry,13,Illinois
+70,Gunshot Detection,9,Illinois
+71,Face Recognition,4,Illinois
+72,Cell-site Simulator,2,Illinois
+73,Fusion Center,2,Illinois
+74,Predictive Policing,2,Illinois
+75,Real-Time Crime Center,2,Illinois
+76,Body-worn Cameras,205,Ohio
+77,Ring/Neighbors Partnership,99,Ohio
+78,Drones,80,Ohio
+79,Automated License Plate Readers,52,Ohio
+80,Camera Registry,16,Ohio
+81,Real-Time Crime Center,5,Ohio
+82,Gunshot Detection,5,Ohio
+83,Fusion Center,3,Ohio
+84,Face Recognition,2,Ohio
+85,Predictive Policing,1,Ohio
+86,Body-worn Cameras,171,Texas
+87,Ring/Neighbors Partnership,140,Texas
+88,Drones,92,Texas
+89,Automated License Plate Readers,75,Texas
+90,Camera Registry,39,Texas
+91,Face Recognition,17,Texas
+92,Real-Time Crime Center,8,Texas
+93,Fusion Center,7,Texas
+94,Predictive Policing,5,Texas
+95,Cell-site Simulator,4,Texas
+96,Video Analytics,2,Texas
+97,Gunshot Detection,1,Texas
+98,Body-worn Cameras,135,Colorado
+99,Ring/Neighbors Partnership,34,Colorado
+100,Drones,29,Colorado
+101,Automated License Plate Readers,24,Colorado
+102,Camera Registry,4,Colorado
+103,Face Recognition,2,Colorado
+104,Predictive Policing,1,Colorado
+105,Gunshot Detection,1,Colorado
+106,Fusion Center,1,Colorado
+107,Video Analytics,1,Colorado
+108,Real-Time Crime Center,1,Colorado
+109,Ring/Neighbors Partnership,126,New York
+110,Drones,68,New York
+111,Body-worn Cameras,67,New York
+112,Automated License Plate Readers,28,New York
+113,Real-Time Crime Center,14,New York
+114,Camera Registry,13,New York
+115,Gunshot Detection,8,New York
+116,Face Recognition,5,New York
+117,Cell-site Simulator,4,New York
+118,Fusion Center,1,New York
+119,Predictive Policing,1,New York
+120,Video Analytics,1,New York
+121,Body-worn Cameras,112,Louisiana
+122,Ring/Neighbors Partnership,19,Louisiana
+123,Drones,15,Louisiana
+124,Automated License Plate Readers,10,Louisiana
+125,Real-Time Crime Center,6,Louisiana
+126,Camera Registry,3,Louisiana
+127,Predictive Policing,3,Louisiana
+128,Gunshot Detection,2,Louisiana
+129,Fusion Center,1,Louisiana
+130,Cell-site Simulator,1,Louisiana
+131,Body-worn Cameras,109,Georgia
+132,Ring/Neighbors Partnership,68,Georgia
+133,Automated License Plate Readers,57,Georgia
+134,Drones,49,Georgia
+135,Camera Registry,20,Georgia
+136,Face Recognition,5,Georgia
+137,Predictive Policing,5,Georgia
+138,Gunshot Detection,5,Georgia
+139,Real-Time Crime Center,2,Georgia
+140,Video Analytics,1,Georgia
+141,Fusion Center,1,Georgia
+142,Cell-site Simulator,1,Georgia
+143,Body-worn Cameras,108,Connecticut
+144,Ring/Neighbors Partnership,57,Connecticut
+145,Drones,16,Connecticut
+146,Automated License Plate Readers,16,Connecticut
+147,Gunshot Detection,4,Connecticut
+148,Camera Registry,3,Connecticut
+149,Video Analytics,2,Connecticut
+150,Real-Time Crime Center,1,Connecticut
+151,Fusion Center,1,Connecticut
+152,Body-worn Cameras,105,Massachusetts
+153,Ring/Neighbors Partnership,42,Massachusetts
+154,Drones,19,Massachusetts
+155,Camera Registry,16,Massachusetts
+156,Automated License Plate Readers,15,Massachusetts
+157,Gunshot Detection,11,Massachusetts
+158,Fusion Center,2,Massachusetts
+159,Face Recognition,2,Massachusetts
+160,Real-Time Crime Center,2,Massachusetts
+161,Predictive Policing,2,Massachusetts
+162,Video Analytics,1,Massachusetts
+163,Cell-site Simulator,1,Massachusetts
+164,Ring/Neighbors Partnership,105,Pennsylvania
+165,Body-worn Cameras,43,Pennsylvania
+166,Drones,31,Pennsylvania
+167,Automated License Plate Readers,18,Pennsylvania
+168,Camera Registry,8,Pennsylvania
+169,Face Recognition,4,Pennsylvania
+170,Real-Time Crime Center,3,Pennsylvania
+171,Fusion Center,3,Pennsylvania
+172,Gunshot Detection,3,Pennsylvania
+173,Cell-site Simulator,2,Pennsylvania
+174,Predictive Policing,1,Pennsylvania
+175,Drones,99,Minnesota
+176,Body-worn Cameras,97,Minnesota
+177,Automated License Plate Readers,52,Minnesota
+178,Ring/Neighbors Partnership,39,Minnesota
+179,Camera Registry,8,Minnesota
+180,Face Recognition,5,Minnesota
+181,Video Analytics,2,Minnesota
+182,Cell-site Simulator,2,Minnesota
+183,Real-Time Crime Center,2,Minnesota
+184,Predictive Policing,1,Minnesota
+185,Fusion Center,1,Minnesota
+186,Gunshot Detection,1,Minnesota
+187,Predictive Policing,98,Tennessee
+188,Body-worn Cameras,29,Tennessee
+189,Ring/Neighbors Partnership,26,Tennessee
+190,Drones,20,Tennessee
+191,Automated License Plate Readers,17,Tennessee
+192,Camera Registry,3,Tennessee
+193,Gunshot Detection,3,Tennessee
+194,Face Recognition,1,Tennessee
+195,Real-Time Crime Center,1,Tennessee
+196,Cell-site Simulator,1,Tennessee
+197,Fusion Center,1,Tennessee
+198,Body-worn Cameras,92,Maine
+199,Ring/Neighbors Partnership,12,Maine
+200,Drones,4,Maine
+201,Predictive Policing,2,Maine
+202,Face Recognition,1,Maine
+203,Fusion Center,1,Maine
+204,Body-worn Cameras,89,Virginia
+205,Ring/Neighbors Partnership,43,Virginia
+206,Drones,22,Virginia
+207,Camera Registry,10,Virginia
+208,Automated License Plate Readers,9,Virginia
+209,Face Recognition,3,Virginia
+210,Cell-site Simulator,3,Virginia
+211,Gunshot Detection,2,Virginia
+212,Fusion Center,2,Virginia
+213,Predictive Policing,1,Virginia
+214,Real-Time Crime Center,1,Virginia
+215,Ring/Neighbors Partnership,87,North Carolina
+216,Body-worn Cameras,49,North Carolina
+217,Drones,25,North Carolina
+218,Automated License Plate Readers,21,North Carolina
+219,Gunshot Detection,8,North Carolina
+220,Camera Registry,5,North Carolina
+221,Face Recognition,4,North Carolina
+222,Real-Time Crime Center,3,North Carolina
+223,Cell-site Simulator,2,North Carolina
+224,Fusion Center,1,North Carolina
+225,Predictive Policing,1,North Carolina
+226,Body-worn Cameras,74,Mississippi
+227,Ring/Neighbors Partnership,11,Mississippi
+228,Drones,10,Mississippi
+229,Automated License Plate Readers,9,Mississippi
+230,Real-Time Crime Center,4,Mississippi
+231,Fusion Center,1,Mississippi
+232,Body-worn Cameras,73,Arizona
+233,Ring/Neighbors Partnership,32,Arizona
+234,Drones,24,Arizona
+235,Automated License Plate Readers,14,Arizona
+236,Camera Registry,6,Arizona
+237,Cell-site Simulator,5,Arizona
+238,Predictive Policing,4,Arizona
+239,Video Analytics,3,Arizona
+240,Real-Time Crime Center,2,Arizona
+241,Face Recognition,1,Arizona
+242,Gunshot Detection,1,Arizona
+243,Fusion Center,1,Arizona
+244,Body-worn Cameras,59,Oklahoma
+245,Automated License Plate Readers,30,Oklahoma
+246,Drones,16,Oklahoma
+247,Ring/Neighbors Partnership,13,Oklahoma
+248,Camera Registry,3,Oklahoma
+249,Cell-site Simulator,1,Oklahoma
+250,Fusion Center,1,Oklahoma
+251,Predictive Policing,1,Oklahoma
+252,Ring/Neighbors Partnership,56,Indiana
+253,Body-worn Cameras,48,Indiana
+254,Drones,32,Indiana
+255,Automated License Plate Readers,17,Indiana
+256,Camera Registry,15,Indiana
+257,Face Recognition,4,Indiana
+258,Gunshot Detection,3,Indiana
+259,Cell-site Simulator,2,Indiana
+260,Predictive Policing,2,Indiana
+261,Real-Time Crime Center,1,Indiana
+262,Fusion Center,1,Indiana
+263,Body-worn Cameras,47,Missouri
+264,Ring/Neighbors Partnership,40,Missouri
+265,Drones,27,Missouri
+266,Automated License Plate Readers,19,Missouri
+267,Camera Registry,18,Missouri
+268,Gunshot Detection,6,Missouri
+269,Fusion Center,3,Missouri
+270,Predictive Policing,3,Missouri
+271,Cell-site Simulator,2,Missouri
+272,Real-Time Crime Center,1,Missouri
+273,Drones,42,Washington
+274,Body-worn Cameras,28,Washington
+275,Ring/Neighbors Partnership,26,Washington
+276,Camera Registry,15,Washington
+277,Automated License Plate Readers,14,Washington
+278,Face Recognition,3,Washington
+279,Predictive Policing,2,Washington
+280,Cell-site Simulator,1,Washington
+281,Fusion Center,1,Washington
+282,Real-Time Crime Center,1,Washington
+283,Body-worn Cameras,39,Rhode Island
+284,Ring/Neighbors Partnership,9,Rhode Island
+285,Camera Registry,4,Rhode Island
+286,Automated License Plate Readers,3,Rhode Island
+287,Fusion Center,1,Rhode Island
+288,Body-worn Cameras,38,New Hampshire
+289,Drones,7,New Hampshire
+290,Automated License Plate Readers,3,New Hampshire
+291,Camera Registry,1,New Hampshire
+292,Ring/Neighbors Partnership,1,New Hampshire
+293,Real-Time Crime Center,1,New Hampshire
+294,Fusion Center,1,New Hampshire
+295,Body-worn Cameras,37,South Dakota
+296,Drones,3,South Dakota
+297,Automated License Plate Readers,1,South Dakota
+298,Face Recognition,1,South Dakota
+299,Fusion Center,1,South Dakota
+300,Ring/Neighbors Partnership,1,South Dakota
+301,Body-worn Cameras,36,Kentucky
+302,Ring/Neighbors Partnership,31,Kentucky
+303,Drones,14,Kentucky
+304,Automated License Plate Readers,8,Kentucky
+305,Face Recognition,2,Kentucky
+306,Camera Registry,1,Kentucky
+307,Fusion Center,1,Kentucky
+308,Gunshot Detection,1,Kentucky
+309,Predictive Policing,1,Kentucky
+310,Real-Time Crime Center,1,Kentucky
+311,Body-worn Cameras,35,Utah
+312,Ring/Neighbors Partnership,32,Utah
+313,Drones,11,Utah
+314,Camera Registry,5,Utah
+315,Automated License Plate Readers,4,Utah
+316,Cell-site Simulator,2,Utah
+317,Real-Time Crime Center,1,Utah
+318,Face Recognition,1,Utah
+319,Fusion Center,1,Utah
+320,Predictive Policing,1,Utah
+321,Drones,34,Alabama
+322,Ring/Neighbors Partnership,28,Alabama
+323,Automated License Plate Readers,22,Alabama
+324,Body-worn Cameras,20,Alabama
+325,Camera Registry,8,Alabama
+326,Gunshot Detection,6,Alabama
+327,Real-Time Crime Center,5,Alabama
+328,Predictive Policing,4,Alabama
+329,Cell-site Simulator,1,Alabama
+330,Face Recognition,1,Alabama
+331,Fusion Center,1,Alabama
+332,Ring/Neighbors Partnership,32,Kansas
+333,Body-worn Cameras,23,Kansas
+334,Drones,22,Kansas
+335,Automated License Plate Readers,4,Kansas
+336,Camera Registry,2,Kansas
+337,Video Analytics,2,Kansas
+338,Predictive Policing,1,Kansas
+339,Gunshot Detection,1,Kansas
+340,Fusion Center,1,Kansas
+341,Face Recognition,1,Kansas
+342,Body-worn Cameras,32,New Mexico
+343,Drones,9,New Mexico
+344,Ring/Neighbors Partnership,5,New Mexico
+345,Camera Registry,5,New Mexico
+346,Gunshot Detection,3,New Mexico
+347,Automated License Plate Readers,2,New Mexico
+348,Face Recognition,2,New Mexico
+349,Real-Time Crime Center,2,New Mexico
+350,Cell-site Simulator,1,New Mexico
+351,Fusion Center,1,New Mexico
+352,Video Analytics,1,New Mexico
+353,Ring/Neighbors Partnership,32,Maryland
+354,Body-worn Cameras,27,Maryland
+355,Automated License Plate Readers,18,Maryland
+356,Camera Registry,17,Maryland
+357,Face Recognition,8,Maryland
+358,Cell-site Simulator,8,Maryland
+359,Drones,7,Maryland
+360,Predictive Policing,4,Maryland
+361,Gunshot Detection,2,Maryland
+362,Fusion Center,1,Maryland
+363,Ring/Neighbors Partnership,31,Oregon
+364,Body-worn Cameras,26,Oregon
+365,Drones,18,Oregon
+366,Camera Registry,18,Oregon
+367,Automated License Plate Readers,4,Oregon
+368,Face Recognition,1,Oregon
+369,Fusion Center,1,Oregon
+370,Body-worn Cameras,31,Nevada
+371,Automated License Plate Readers,11,Nevada
+372,Drones,9,Nevada
+373,Ring/Neighbors Partnership,9,Nevada
+374,Camera Registry,3,Nevada
+375,Face Recognition,3,Nevada
+376,Fusion Center,2,Nevada
+377,Gunshot Detection,1,Nevada
+378,Video Analytics,1,Nevada
+379,Cell-site Simulator,1,Nevada
+380,Real-Time Crime Center,1,Nevada
+381,Body-worn Cameras,27,Arkansas
+382,Drones,15,Arkansas
+383,Ring/Neighbors Partnership,12,Arkansas
+384,Gunshot Detection,1,Arkansas
+385,Fusion Center,1,Arkansas
+386,Face Recognition,1,Arkansas
+387,Automated License Plate Readers,1,Arkansas
+388,Body-worn Cameras,22,Nebraska
+389,Ring/Neighbors Partnership,12,Nebraska
+390,Drones,10,Nebraska
+391,Automated License Plate Readers,5,Nebraska
+392,Gunshot Detection,1,Nebraska
+393,Fusion Center,1,Nebraska
+394,Face Recognition,1,Nebraska
+395,Drones,20,Iowa
+396,Body-worn Cameras,17,Iowa
+397,Ring/Neighbors Partnership,13,Iowa
+398,Camera Registry,4,Iowa
+399,Automated License Plate Readers,4,Iowa
+400,Cell-site Simulator,1,Iowa
+401,Fusion Center,1,Iowa
+402,Face Recognition,1,Iowa
+403,Body-worn Cameras,18,Wyoming
+404,Ring/Neighbors Partnership,3,Wyoming
+405,Drones,2,Wyoming
+406,Automated License Plate Readers,1,Wyoming
+407,Camera Registry,1,Wyoming
+408,Fusion Center,1,Wyoming
+409,Body-worn Cameras,18,Idaho
+410,Drones,17,Idaho
+411,Ring/Neighbors Partnership,14,Idaho
+412,Automated License Plate Readers,5,Idaho
+413,Fusion Center,1,Idaho
+414,Camera Registry,1,Idaho
+415,Body-worn Cameras,14,West Virginia
+416,Ring/Neighbors Partnership,5,West Virginia
+417,Drones,3,West Virginia
+418,Automated License Plate Readers,2,West Virginia
+419,Camera Registry,1,West Virginia
+420,Face Recognition,1,West Virginia
+421,Fusion Center,1,West Virginia
+422,Body-worn Cameras,12,Delaware
+423,Ring/Neighbors Partnership,7,Delaware
+424,Drones,6,Delaware
+425,Automated License Plate Readers,3,Delaware
+426,Face Recognition,2,Delaware
+427,Camera Registry,1,Delaware
+428,Cell-site Simulator,1,Delaware
+429,Real-Time Crime Center,1,Delaware
+430,Gunshot Detection,1,Delaware
+431,Fusion Center,1,Delaware
+432,Body-worn Cameras,11,Montana
+433,Drones,4,Montana
+434,Ring/Neighbors Partnership,3,Montana
+435,Automated License Plate Readers,1,Montana
+436,Camera Registry,1,Montana
+437,Fusion Center,1,Montana
+438,Face Recognition,1,Montana
+439,Body-worn Cameras,11,North Dakota
+440,Drones,9,North Dakota
+441,Ring/Neighbors Partnership,5,North Dakota
+442,Camera Registry,3,North Dakota
+443,Automated License Plate Readers,2,North Dakota
+444,Fusion Center,1,North Dakota
+445,Face Recognition,1,North Dakota
+446,Body-worn Cameras,9,Puerto Rico
+447,Fusion Center,1,Puerto Rico
+448,Face Recognition,5,Hawaii
+449,Drones,2,Hawaii
+450,Ring/Neighbors Partnership,1,Hawaii
+451,Real-Time Crime Center,1,Hawaii
+452,Fusion Center,1,Hawaii
+453,Body-worn Cameras,1,Hawaii
+454,Automated License Plate Readers,1,Hawaii
+455,Body-worn Cameras,4,Alaska
+456,Drones,3,Alaska
+457,Ring/Neighbors Partnership,3,Alaska
+458,Cell-site Simulator,1,Alaska
+459,Fusion Center,1,Alaska
+460,Face Recognition,1,Alaska
+461,Body-worn Cameras,3,Vermont
+462,Ring/Neighbors Partnership,2,Vermont
+463,Drones,2,Vermont
+464,Automated License Plate Readers,1,Vermont
+465,Fusion Center,1,Vermont
+466,Cell-site Simulator,1,Washington DC
+467,Gunshot Detection,1,Washington DC
+468,Video Analytics,1,Washington DC
+469,Camera Registry,1,Washington DC
+470,Fusion Center,1,Washington DC
+471,Body-worn Cameras,1,Washington DC
+472,Face Recognition,1,Washington DC
+473,Automated License Plate Readers,1,Washington DC
+474,Body-worn Cameras,1,Virgin Islands
+475,Fusion Center,1,Virgin Islands
+476,Body-worn Cameras,1,Guam
+477,Fusion Center,1,Guam

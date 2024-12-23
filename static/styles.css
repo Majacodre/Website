@@ -1,0 +1,221 @@
+/*logo/header */
+.logo {
+
+    display: block;
+    margin:auto;
+    height: 5%;
+    width: 30%;
+    pointer-events: none;
+    
+    
+
+}
+
+.logo-background {
+
+    background-color: #053f61;
+    box-shadow: 0 0 0 100vmax #053f61;
+    clip-path: inset(0 -100vmax);
+
+}
+
+/*Navigation bar*/
+
+.nav {
+    
+    float: left;
+   
+}
+
+.navigation-bar {
+
+    background-color: black;
+    border-bottom: 1.5px solid white;
+    width: 31%;
+    margin-left: 33%;
+    text-align: center;
+    margin-top: 0;
+
+}
+
+.navigation-bar li {
+
+    display: inline; 
+    color: #ffffff; 
+    border-right: 0.1px outset white;
+    font-size:1.5vw;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+
+.navigation-bar li:nth-last-child(1) {
+
+    border-right: 0px;
+
+}
+
+a:link {
+
+    color:white;
+    text-decoration: none;  
+
+}
+
+a:hover {
+
+    background-color: #146797d3;
+    text-decoration: none;
+    
+}
+
+a:visited {
+
+    color:white;
+    text-decoration: none;
+
+}
+
+
+.active {
+
+    background-color: #053f61;
+    text-decoration: none;
+    padding: 0.3%;
+
+}
+
+/*home page*/
+
+.purpose-text {
+
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.4vw;
+    text-align: center;
+    padding: 20px;
+    background-color: #053f61;
+    width:37%;
+    margin-top: -15.5px;
+    margin-left: 30%;
+    text-align: justify;
+}
+
+.AOS-title {
+
+    color: white;
+    background-color: #053f61;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.8vw;
+    font-style: bold;
+    width:37%;
+    margin-top: -15.5px;
+    padding:20px;
+    margin-left: 30%;
+
+}
+
+.AOS-text {
+
+    color: white;
+    background-color: #053f61;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4vw;
+    width:37%;
+    margin-top: -15.5px;
+    padding:20px;
+    margin-left: 30%;
+    text-align: justify;
+
+}
+
+.about {
+
+    color: white;
+    background-color: #053f61;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8vw;
+    width:37%;
+    margin-top: -15.5px;
+    padding:20px;
+    margin-left: 30%;
+
+}
+
+/*statistics page*/
+.bar-plot {
+
+    height: 450px;
+    width: 100%;
+
+}
+
+.graph-text {
+
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+    width:50%;
+    padding:20px;
+    margin-left: 30%;
+    text-align: justify;
+
+}
+
+/*map page*/
+.map {
+
+    width:750px;
+    height: 650px;
+    margin:auto;
+
+}
+
+.map-text {
+
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8vw;
+    width:37%;
+    margin-top: -15.5px;
+    padding:20px;
+    margin-left: 30%;
+
+}
+
+.map-description {
+
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+    width:50%;
+    margin-top: -15.5px;
+    padding:20px;
+    margin-left: 25%;
+    text-align: justify;
+
+}
+
+.analysis {
+
+    color: white;
+    background-color: #053f61;
+    box-shadow: 0 0 0 100vmax #053f61;
+    clip-path: inset(0 -100vmax);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4vw;
+    padding:20px;
+    text-align: justify;
+    border-top: 1px solid white;
+
+}
